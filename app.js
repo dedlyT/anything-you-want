@@ -11,7 +11,7 @@ app.get("/bye", (req, res) => {
 })
 
 app.get("/greeting", (req, res) => {
-    res.send(`hi, ${req.query.name}`)
+    res.send(`oijiojiiuhoiioppopopko[p ${req.query.name}`)
 })
 
 app.listen(port, () => {
